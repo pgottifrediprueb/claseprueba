@@ -1,2 +1,2 @@
 # claseprueba
-Proyecto para ver como funciona git
+Proyecto para ver como funciona git Hola Acabo de modificarme
